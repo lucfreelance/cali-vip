@@ -1,5 +1,5 @@
 ---
-title: "Cali VIP Tours EN"
+title: "Cali VIP Tours"
 
 description: "It's all about the experience"
 theme_version: "2.8.2"

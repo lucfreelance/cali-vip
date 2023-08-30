@@ -1,6 +1,5 @@
 ---
-title: "Artículos"
-date: 2017-03-02T12:00:00-05:00
+title: "Tours"
 ---
 
-Ejemplo de página de indexes de artículo.
+Estos son los nuevos tours a los que les metemos toda la caña.
